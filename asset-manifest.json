@@ -1,17 +1,18 @@
 {
   "files": {
-    "main.css": "/kosmetolog/static/css/main.31d6cfe0.css",
-    "main.js": "/kosmetolog/static/js/main.c22df922.js",
+    "main.css": "/kosmetolog/static/css/main.0d4ec5ad.css",
+    "main.js": "/kosmetolog/static/js/main.a90e7fd2.js",
     "static/js/787.3e15ce6d.chunk.js": "/kosmetolog/static/js/787.3e15ce6d.chunk.js",
     "static/media/mainPicture.png": "/kosmetolog/static/media/mainPicture.e696d54f566dda09ee1c.png",
     "static/media/oldBiden.webp": "/kosmetolog/static/media/oldBiden.0103f65ad956de093416.webp",
-    "static/media/icons-sprite.svg": "/kosmetolog/static/media/icons-sprite.a88497cf9ac650f82b440a3fa5768d74.svg",
+    "static/media/icons-sprite.svg": "/kosmetolog/static/media/icons-sprite.e62be7640522ae0da136d43b0cc8c5b2.svg",
     "index.html": "/kosmetolog/index.html",
-    "main.c22df922.js.map": "/kosmetolog/static/js/main.c22df922.js.map",
+    "main.0d4ec5ad.css.map": "/kosmetolog/static/css/main.0d4ec5ad.css.map",
+    "main.a90e7fd2.js.map": "/kosmetolog/static/js/main.a90e7fd2.js.map",
     "787.3e15ce6d.chunk.js.map": "/kosmetolog/static/js/787.3e15ce6d.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.31d6cfe0.css",
-    "static/js/main.c22df922.js"
+    "static/css/main.0d4ec5ad.css",
+    "static/js/main.a90e7fd2.js"
   ]
 }
